@@ -1,9 +1,9 @@
-# Surrendren
-The source code for the Surrendren automod.
+# Ray's Automod
+The source code for the automod.
 
-Surrendren2 is the older but more robust version. It was what was running on the server before I stepped down as developer. It's a mess, but it works.
+2 is the older but more robust version. It was what was running on the server before I stepped down as developer. It's a mess, but it works.
 
-Surrendren3's a massive cleanup, but I never properly tested it, so it could have extra glitches or problems that Surrendren2 doesn't.
+3's a massive cleanup, but I never properly tested it, so it could have extra glitches or problems that 2 doesn't.
 
 Only intentional change is 3 only accepts commands from the Bot Commands channel, and only deletes voice channels when they become empty.
 
